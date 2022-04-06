@@ -8,3 +8,6 @@ red and yellow and pink and green
 Ponies Poines and Fly!
 New Line
 Window Mac 
+//TODO #4 add in some browsers @DanielFitzsimmons
+Chrome and FireFox have nothing on IE6
+Add somthing
