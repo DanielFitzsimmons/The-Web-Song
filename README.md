@@ -7,3 +7,5 @@ JavaScript and React
 red and yellow and pink and green
 Ponies Poines and Fly!
 New Line
+//TODO #4 add in some browsers @DanielFitzsimmons
+Chrome and FireFox have nothing on IE6
